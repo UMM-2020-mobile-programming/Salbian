@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_border1.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\round_border1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_data_picker.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\data_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave4.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_wave4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person4.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_person4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main8.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_main8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_task_list_row.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout-v21\\task_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person1.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_person1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email1.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_email1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_help.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fab_add.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_fab_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cal.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\cal.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_border.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\round_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sentiment.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_sentiment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\anim_push_down.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\anim\\push_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main10.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_main10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main9.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_main9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave3.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_wave3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radius_border_button_text.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\radius_border_button_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main5.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_main5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_phone.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_local_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\card.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave2.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_wave2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg1.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\round_bg1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_main4.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout-v21\\activity_main4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_del.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\del.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wave.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person3.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_person3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock1.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_lock1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main11.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_main11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_salbian.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\salbian.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave1.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_wave1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg2.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\round_bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main7.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_main7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave5.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_wave5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radius_border_button.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\radius_border_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_salma.jpg.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\salma.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_modify_task.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\layout\\activity_add_modify_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Mumun\\AndroidStudioProjects\\Salbian\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    }
+]
